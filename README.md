@@ -6,7 +6,7 @@
 Sample implementation for JavaScript (Web) of the CommandService for multiple participants to move avatars across the screen.
 
 # Overview
-This project will demonstrate how to send text and data between participants connected to a session with JavaScript. 
+[This project](https://dolby.io/blog/getting-started-with-commandservice/) will demonstrate how to send text and data between participants connected to a session with JavaScript. 
 
 # Requirements
 For this project, you need a [Dolby.io account](https://dolby.io/) to acquire an API key and Secret Key for authentication. In addition to that, you will also need CommandService API credentials, but instructions on retrieving these credentials are available in the guide and Python libraries. 
