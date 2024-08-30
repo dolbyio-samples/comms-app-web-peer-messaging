@@ -1,6 +1,6 @@
-[![License](https://img.shields.io/github/license/dolbyio-samples/blog-commandservice-avatar-app)](LICENSE)
+# :warning: This repository is no longer maintained :warning:
 
-![Blog Picture](https://dolby.io/wp-content/uploads/2021/09/Client-Messaging-in-a-DolbyIO-Video-Conference.jpg)
+[![License](https://img.shields.io/github/license/dolbyio-samples/blog-commandservice-avatar-app)](LICENSE)
 
 # Client Messaging in a Dolby.io Video Conference
 Sample implementation for JavaScript (Web) of the CommandService for multiple participants to move avatars across the screen.
